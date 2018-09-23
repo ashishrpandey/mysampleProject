@@ -1,0 +1,4 @@
+# dependencies for production
+-r common.txt
+supervisor==3.3.4
+gunicorn==19.7.1
